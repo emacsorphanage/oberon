@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 2006 Karl Landström
 
-;; Author: Karl Landström <kland@comhem.se>
-;; Maintainer: Karl Landström <kland@comhem.se>
+;; Author: Karl Landström <karl@karllandstrom.se>
+;; Maintainer: Karl Landström <karl@karllandstrom.se>
 ;; Version: 2.0 Beta 1
 ;; Keywords: oberon oberon-2 languages oop
 
