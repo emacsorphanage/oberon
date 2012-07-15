@@ -1023,6 +1023,6 @@ Key bindings:
   (run-hooks 'oberon-mode-hook))
 
 
-(provide 'oberon-mode)
+(provide 'oberon)
 
 ;;; oberon.el ends here
